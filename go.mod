@@ -1,4 +1,4 @@
-module github.com/hrntknr/pop
+module github.com/hrntknr/ipop
 
 go 1.13
 
